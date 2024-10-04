@@ -4,10 +4,11 @@ Phone: (+91) 9693634257         | [linkedin.com/in/amritr31](https://linkedin.co
 ---
 #### 🛠 Technical Skills
 
-- **Programming Languages:** C/C++, Java, Python, JavaScript
-- **Frameworks & Libraries:** React, NodeJs 
+- **Programming Languages:** C/C++, Java, Python, JavaScript, SQL
+- **Frameworks & Libraries:** React, NodeJs, Tailwind, Bootstrap
 - **Databases:** MongoDB, MySQL
 - **Cloud Platforms:** AWS, Azure, Docker
+- **Concepts:** OOPs, Computer Networks, Linux, DBMS, API, Database Normalization, Agile Methodology
 
 ---
 #### 💼 Experience
